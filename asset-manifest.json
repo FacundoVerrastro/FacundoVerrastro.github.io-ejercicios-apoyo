@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/FacundoVerrastro/FacundoVerrastro.github.io-ejercicios-apoyo/static/css/main.a551d444.chunk.css",
+    "main.js": "/FacundoVerrastro/FacundoVerrastro.github.io-ejercicios-apoyo/static/js/main.e5b01d22.chunk.js",
+    "main.js.map": "/FacundoVerrastro/FacundoVerrastro.github.io-ejercicios-apoyo/static/js/main.e5b01d22.chunk.js.map",
+    "runtime-main.js": "/FacundoVerrastro/FacundoVerrastro.github.io-ejercicios-apoyo/static/js/runtime-main.2d64b664.js",
+    "runtime-main.js.map": "/FacundoVerrastro/FacundoVerrastro.github.io-ejercicios-apoyo/static/js/runtime-main.2d64b664.js.map",
+    "static/js/2.9eb58b92.chunk.js": "/FacundoVerrastro/FacundoVerrastro.github.io-ejercicios-apoyo/static/js/2.9eb58b92.chunk.js",
+    "static/js/2.9eb58b92.chunk.js.map": "/FacundoVerrastro/FacundoVerrastro.github.io-ejercicios-apoyo/static/js/2.9eb58b92.chunk.js.map",
+    "static/js/3.819a1343.chunk.js": "/FacundoVerrastro/FacundoVerrastro.github.io-ejercicios-apoyo/static/js/3.819a1343.chunk.js",
+    "static/js/3.819a1343.chunk.js.map": "/FacundoVerrastro/FacundoVerrastro.github.io-ejercicios-apoyo/static/js/3.819a1343.chunk.js.map",
+    "index.html": "/FacundoVerrastro/FacundoVerrastro.github.io-ejercicios-apoyo/index.html",
+    "static/css/main.a551d444.chunk.css.map": "/FacundoVerrastro/FacundoVerrastro.github.io-ejercicios-apoyo/static/css/main.a551d444.chunk.css.map",
+    "static/js/2.9eb58b92.chunk.js.LICENSE.txt": "/FacundoVerrastro/FacundoVerrastro.github.io-ejercicios-apoyo/static/js/2.9eb58b92.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d64b664.js",
+    "static/js/2.9eb58b92.chunk.js",
+    "static/css/main.a551d444.chunk.css",
+    "static/js/main.e5b01d22.chunk.js"
+  ]
+}
