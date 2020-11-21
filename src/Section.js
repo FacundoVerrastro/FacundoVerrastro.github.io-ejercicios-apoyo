@@ -1,4 +1,4 @@
-
+import Table from './components/Table.js'
 function Section(){
     return (
         <section className='Section'>
@@ -7,6 +7,7 @@ function Section(){
             y reutilizables, para crear interfaces de usuarios de manera rapida y eficiente.
             Ademas optimiza la forma en la que se almacenan y manejan los datos.
         </p>
+        <Table/>
         <div className="espacioBlanco"></div>
         </section>
       );
